@@ -13,3 +13,5 @@
 * 6.aşama --> [8,11,12,16,21,22]
 ### 2)
 Big-O gösterimi O(nlogn)' dir.  
+
+[Patika User](https://app.patika.dev/sibergold)
